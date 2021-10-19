@@ -3,6 +3,7 @@
 /** @type {import('eslint').Linter.Config} */
 module.exports = {
   root: true,
+  parserOptions: { ecmaVersion: 2020 },
   extends: [
     'eslint:recommended',
     'plugin:eslint-plugin/recommended',

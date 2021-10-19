@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "write-custom-eslint-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yoki Yu <yokiyuqian@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "eslint-plugin-custom",
+    "example-usage"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
