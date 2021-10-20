@@ -6,9 +6,9 @@ const config = {
   env: {
     es6: true
   },
-  plugins: ['custom'],
-  rules: {
-    'custom/no-chinese-identifier': 2
-  }
+  extends: ['plugin:custom/recommended']
+  // rules: {
+  //   'custom/no-chinese-identifier': 2
+  // }
 }
 module.exports = config
