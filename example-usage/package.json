@@ -8,6 +8,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "eslint-config-custom": "^1.0.0",
     "eslint-plugin-custom": "^0.0.0"
   },
   "devDependencies": {

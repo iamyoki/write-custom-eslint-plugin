@@ -1,5 +1,5 @@
 {
-  "packages": ["eslint-plugin-custom", "example-usage"],
+  "packages": ["eslint-plugin-custom","eslint-config-custom", "example-usage"],
   "npmClient": "yarn",
   "useWorkspaces": true,
   "version": "0.0.0"

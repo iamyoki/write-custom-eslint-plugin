@@ -5,3 +5,5 @@ const 信息 = {
   电话: '123',
   邮箱: 'qhdata@qhdata.com'
 }
+
+alert(1)

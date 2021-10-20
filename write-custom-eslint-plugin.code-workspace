@@ -1,6 +1,7 @@
 {
   "folders": [
     { "name": "eslint-plugin-custom", "path": "./eslint-plugin-custom" },
+    { "name": "eslint-config-custom", "path": "./eslint-config-custom" },
     { "name": "example-usage", "path": "./example-usage" }
   ]
 }

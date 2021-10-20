@@ -6,7 +6,7 @@ const config = {
   env: {
     es6: true
   },
-  extends: ['plugin:custom/recommended']
+  extends: ['custom/recommended']
   // rules: {
   //   'custom/no-chinese-identifier': 2
   // }
